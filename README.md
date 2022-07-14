@@ -1,2 +1,2 @@
-# Programing-Basics-JS
+# Programming-Basics-JS
 Simple projects from my programming course at SoftUni

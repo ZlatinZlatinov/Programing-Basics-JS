@@ -9,4 +9,4 @@ function depositCalculator(input){
 
 } 
 depositCalculator(["200 " , "3 " , "5.7 "]); 
-//100ot sto gotov za mazniq judge
+//100ot sto gotov 

@@ -29,4 +29,4 @@ function bonusPoints(input){
     console.log(nachalenBroi + bonus); 
 } 
 bonusPoints(["15875"]); 
-// стаа ама cheated ... нш не разбрах как го смята хдд
+// стаа 

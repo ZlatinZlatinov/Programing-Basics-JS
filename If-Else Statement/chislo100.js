@@ -18,6 +18,6 @@ function chisloSto(input){
 } 
 chisloSto(["85"]); 
 
-// май уж работи, не е тествано в жъж, си тяа е с другите кавички да видим... чч 
+
 // 1st try 90/100 more interesting xdd 
 // 2nd try трябвало да е <=200  за да е between 100 and 200 ; 100/100 dade
